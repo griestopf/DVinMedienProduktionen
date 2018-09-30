@@ -37,14 +37,83 @@ In dieser Veranstaltung soll daher die Verwendung von _Python_ im Umfeld von Med
 Python wurde 1991 von Guido van Rossum während seiner Tätigkeit am _Centrum Wiskunde & Informatica_ in den Niederlanden entwickelt. Der Name _Python_ soll an die britische Comedy-Truppe _Monty Python_ erinnern. Die Sprache wurde im Hinblick auf die Code-Lesbarkeit entwickelt. Bemerkenswert hier ist die besondere Bedeutung von Leerzeichen und Einrückungen, die in vielen anderen Sprachen zwar per Konvention von Programmierern zur Erhöhung der Code-Lesbarkeit verwendet werden können, in Python aber eine syntaktische Rolle spielen und bei falscher Verwendung auch zu Fehlern führen kann (siehe den englischen 
 [Wikipedia-Artikel zur Syntax von Python](https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Indentation)).
 
+Vermutlich das besondere Augenmerk auf die Code-Lesbarkeit und das Bestreben, für viele Probleme möglichst nur einen Weg zu bieten, haben stark zur Beliebtheit von Python beigetragen. 
+
+Neben der Verwendung von Python als Skriptsprache in großen Software-Paketen, vor allem in der Medienproduktion, erfreut sich Python auch in wissenschafltichen Anwendungen großer Beliebtheit. Es gibt zahlreiche Software-Bibliotheken für Python, die auf wissenschaftliche Anwendungen spezialsisiert sind. Zudem sind eine Reihe von Technologien im Bereich Maschinelles Lernen und künstliche neuronale Netze auf Python basiert - allen voran die ML-Umgebung **Tensor-Flow** von Google.
+
+### Wichtige Syntax-Elemente
+
+Die wichtigsten syntaktischen Elemente sind hier in Kürze zusammengefasst. Die meisten dieser Merkmale unterscheiden sich deutlich von den Mainstream-Programmiersprachen Java/C/C++/C#/Javascript/Typescript. Der Unterschied ist in den folgenden Abschnitten jeweils aufgeführt.
 
 
+#### Kommentare
 
+Komentare in Python beginnen mit einem einleitenden `#` und
+laufen bis zum Ende der Zeile
 
+##### Beispiel in Python
+```Python
+# Dies ist ein Kommentar
+a = 42  # der Variablen a wird Zwoundvierzig zugewiesen
+```
+
+##### Beispiel in C#
+```java
+// Dies ist ein Kommentar
+int a = 42;  // der Variablen a wird Zwoundvierzig zugewiesen
+```
+
+#### Blöcke
+
+Zusammengehörige Anweisungen, die hintereinander ausgeführt werden sollen, werden in vielen Programmiersprachen mit geschweiften Klammern `{` und `}` markiert. Zusätzlich rücken Programmierer solche Blöcke im Programmtext ein, um die Lesbarkeit zu erhöhen und die Zusammengehörigkeit zu verdeutlichen. In Python werden Blöcke _nicht_ durch spezielle Anfangs- und Ende-Marker gekennzeichnet, sondern gleich durch eine passende Einrückung. Innerhalb von Blöcken werden Anweisungen mit `;` voneinander getrennt. Das erlaubt es theoretische, mehrere Anweisungen in eine Zeile zu setzen, obwohl die meiste Programmierer nur eine Anweisung pro Zeile verwenden, um die Lesbarkeit zu erhöhen. In Python kann nur eine Anweisung pro Zeile verwendet werdnen, dafür ist aber auch das Semikolon nicht
+nötig.
+
+##### Beispiel in Python
+```Python
+if alter >= 18:
+	print("Du bist volljährig")
+	EnterAdultZone()
+NextStep()
+```
+
+##### Beispiel in C#
+```java
+if (alter >= 18)
+{
+	Console.WriteLine("Du bist volljährig");
+	EnterAdultZone();
+}
+NextStep();
+```
+
+#### Variablen
+
+Im Gegensatz zu einigen der o.G. Programmiersprachen müssen in Python Variablen _nicht_ vor ihrer Verwendung deklariert werden. Die erste Verwendung (Zuweisung) einer Variablen deklariert diese auch gleichzeitig. Der Typ der Variablen wird dann ebenfalls aus dem Kontext der ersten Zuweisung ermittelt und festgelegt.
+
+##### Beispiel in Python
+```Python
+a = 42 # an integer
+b = 3.1415 # a float
+c = "Hello" # a string
+```
+
+##### Beispiel in C#
+```c#
+int a = 42; // an integer
+double = 3.1415; // a float
+string c = "Hello"; // a string
+```
 
 
 
 ## Literatur
+
+### Einführung in Python auf Deutsch
+https://pythonbuch.com/
+
+### Erste Schritte in Python mit Visual Studio Code
+https://code.visualstudio.com/docs/python/python-tutorial
+
 
 ### Lynda.com Kurs: Blender Python Scripting
 
