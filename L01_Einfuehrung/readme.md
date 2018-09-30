@@ -92,16 +92,16 @@ Im Gegensatz zu einigen der o.G. Programmiersprachen müssen in Python Variablen
 
 ##### Beispiel in Python
 ```Python
-a = 42 # an integer
-b = 3.1415 # a float
-c = "Hello" # a string
+a = 42        # an integer
+b = 3.1415    # a float
+c = "Hello"   # a string
 ```
 
 ##### Beispiel in C#
 ```c#
-int a = 42; // an integer
-double = 3.1415; // a float
-string c = "Hello"; // a string
+int a = 42;          // an integer
+double b = 3.1415;   // a float
+string c = "Hello";  // a string
 ```
 
 
