@@ -39,7 +39,7 @@ Python wurde 1991 von Guido van Rossum während seiner Tätigkeit am _Centrum Wi
 
 Vermutlich das besondere Augenmerk auf die Code-Lesbarkeit und das Bestreben, für viele Probleme möglichst nur einen Weg zu bieten, haben stark zur Beliebtheit von Python beigetragen. 
 
-Neben der Verwendung von Python als Skriptsprache in großen Software-Paketen, vor allem in der Medienproduktion, erfreut sich Python auch in wissenschafltichen Anwendungen großer Beliebtheit. Es gibt zahlreiche Software-Bibliotheken für Python, die auf wissenschaftliche Anwendungen spezialsisiert sind. Zudem sind eine Reihe von Technologien im Bereich Maschinelles Lernen und künstliche neuronale Netze auf Python basiert - allen voran die ML-Umgebung **Tensor-Flow** von Google.
+Neben der Verwendung von Python als Skriptsprache in großen Software-Paketen, vor allem in der Medienproduktion, erfreut sich Python auch in wissenschaftlichen Anwendungen großer Beliebtheit. Es gibt zahlreiche Software-Bibliotheken für Python, die auf wissenschaftliche Anwendungen spezialisiert sind. Zudem sind eine Reihe von Technologien im Bereich Maschinelles Lernen und künstliche neuronale Netze auf Python basiert - allen voran die ML-Umgebung **Tensor-Flow** von Google.
 
 ### Wichtige Syntax-Elemente
 
@@ -104,7 +104,20 @@ double b = 3.1415;   // a float
 string c = "Hello";  // a string
 ```
 
+## Aufgaben
 
+- Installiert die neueste [Python Version](https://code.visualstudio.com/docs/python/python-tutorial). 
+
+- Installiert [Visual Studio Code](https://code.visualstudio.com/download).
+
+- Installiert die [Python Extension für Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
+
+- Arbeitet das [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) Tutorial durch und stellt sicher,
+das die o.g. Werkzeuge laufen.
+
+- Arbeitet die ersten drei Kapitel des [Python Buch](https://pythonbuch.com/) durch und notiert Fragen/Ungereimtheiten. Verwendet Visual Studio Code beim Nachvollziehen der Code-Beispiele.
+
+- Erzeugt ein kleines Python Programm, das eine oder mehrere Texteingaben entgegennimmt und auf Grund dieser eine Ausgabe produziert.
 
 ## Literatur
 
