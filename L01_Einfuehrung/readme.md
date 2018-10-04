@@ -106,7 +106,7 @@ string c = "Hello";  // a string
 
 ## Aufgaben
 
-- Installiert die neueste [Python Version](https://code.visualstudio.com/docs/python/python-tutorial). 
+- Installiert die neueste [Python Version](https://www.python.org/downloads/). 
 
 - Installiert [Visual Studio Code](https://code.visualstudio.com/download).
 
@@ -122,9 +122,12 @@ das die o.g. Werkzeuge laufen.
 ## Literatur
 
 ### Einführung in Python auf Deutsch
+
 https://pythonbuch.com/
 
+
 ### Erste Schritte in Python mit Visual Studio Code
+
 https://code.visualstudio.com/docs/python/python-tutorial
 
 
@@ -135,12 +138,11 @@ https://www.lynda.com/Blender-tutorials/Python-Scripting-Blender/486043-2.html?o
 
 ### E-BOOK: The Blender Python API
 
-The Blender Python API : Precision 3D Modeling and Add-on Development 
-von Conlan, Chris 
-Veröffentlicht: Berkeley, CA Apress, 2017
-Als E-Book in der Bibliothek
+Chris Conlan: _The Blender Python API : Precision 3D Modeling and Add-on Development_;
+Berkeley, CA; Apress, 2017. [Als E-Book in der HFU-Bibliothek](https://hsfu.boss2.bsz-bw.de/Search/Results?lookfor=python+blender&limit=20)
 
-### Thesis "The Role of Python in Visual Effects Pipeline"
+
+### Thesis _The Role of Python in Visual Effects Pipeline_
 
 https://www.theseus.fi/bitstream/handle/10024/115922/Kazakov_Vladislav.pdf?sequence=1
 
