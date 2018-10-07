@@ -47,15 +47,68 @@ Operator in Python | Bedeutung
 
 ### Verzweigung/Alternative
 
-Die in fast jeder Programmiersprache bekannte if-Anweisung gibt es auch in Python. Die Bedingung stellt immer einen Bool'schen Wert dar, der z.B. mit o.g. Operatoren 
+Die in fast jeder Programmiersprache bekannte if-Anweisung gibt es auch in Python, die bereits in Lektion 1 kurz beschrieben wurde. Eine Besonderheit gegenüber bekannten Programmiersprachen wie Java/C# ist das Schlüsselwort `elif`, mit denen so genannte if-else-Ketten eleganter aufgebaut werden können, als mit Hilfe
+von immer tiefer verschachtelten else-Zweigen.
 
-#### `if`-Beispiel
+
+#### `if`-Beispiel mit `elif`
 
 ```python
-
-if 
-
+if a == 1:
+	print('eins')
+elif a == 2:
+	print('zwei')
+else:
+	print('viele')
 ```
+
+
+#### Was ist mit `switch`-`case`?
+
+Die aus vielen Programmiersprachen bekannte switch-case-Anweisung hat kein direktes Äquivalent in Python. Hier bietet sich die Verwendung einer if-elif-Kette an. Auf [Stackoverflow gibt es einen interessanten Thread](https://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python), der eine Reihe von weiteren Möglichkeiten beschreibt, switch-case-artige Konstrukte in Python zu realisieren.
+
+
+#### Conditional Operator
+
+Der ebenfalls aus vielen Programmiersprachen bekannte "ternäre" oder "conditional" Operator (`?:`), der oft in Zuweisungen verwendet wird, um einer Variablen einen Wert in Abhängigkeit einer Bedingung zuzuweisen hat in Python hingegen ein Äquivalent. Obwohl hier die Schlüsselworte `if` und `else` vorkommen handelt es sich allerdings _nicht_ um eine if-else-Anweisung. Am besten erklärt sich die Verwendung an einem Beispiel, zunächst in C#
+
+```c#
+int alter = 17:
+string status = (alter >= 18) ? "erwachsen" : "minderjährig";
+```
+
+Der Variablen `status` wird eine Zeichenkette (String) in Abhängigkeit des Alters zugewiesen. 
+
+Hier eine vergleichbare Anweisung in Python
+
+```Python
+alter = 17
+status = "erwachsen" if alter >= 18 else "minderjährig"
+```
+
+Natürlich kann in C# wie auch in Python das gleiche Ergebnis über eine klassische if-else-Anweisung realisiert werden (Übung). 
+
+## Schleifen
+
+Das klassische Schleifenkonstrukt ist es, einen Code-Block so lange zu wiederholen, so lange einer Wiederhol-Bedingung gegeben ist. Die Bedingung wird dabei pro Schleifendurchlauf erneut überprüft. Wie in vielen anderen Programmiersprachen auch, kann dies in Python mit der `while`-Anweisung realisiert werden. Allerdings mit den üblichen Python-Syntax-Merkmalen:
+
+- Doppelpunkt nach der Bedingung
+- Einrückung des Schleifenrumpf-Code-Blocks
+
+#### `while` Beispiel
+
+```Python
+a = 0
+while a < 10:
+	print(a)
+	a = a+1
+```
+
+Solange der Inhalt der Variablen `a` kleiner als zehn ist, wird der Wert ausgegeben und der Inhalt von `a` um eins erhöht. Als Bedingung sind alle möglichen Ausdrücke denkbar, solange sie nur einen Bool'schen Wert (`True` oder `False` liefern).
+
+
+
+
 
 
 
