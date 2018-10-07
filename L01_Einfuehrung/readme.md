@@ -119,32 +119,6 @@ das die o.g. Werkzeuge laufen.
 
 - Erzeugt ein kleines Python Programm, das eine oder mehrere Texteingaben entgegennimmt und auf Grund dieser eine Ausgabe produziert.
 
-## Literatur
-
-### Einführung in Python auf Deutsch
-
-https://pythonbuch.com/
-
-
-### Erste Schritte in Python mit Visual Studio Code
-
-https://code.visualstudio.com/docs/python/python-tutorial
-
-
-### Lynda.com Kurs: Blender Python Scripting
-
-https://www.lynda.com/Blender-tutorials/Python-Scripting-Blender/486043-2.html?org=hs-furtwangen.de
-
-
-### E-BOOK: The Blender Python API
-
-Chris Conlan: _The Blender Python API : Precision 3D Modeling and Add-on Development_;
-Berkeley, CA; Apress, 2017. [Als E-Book in der HFU-Bibliothek](https://hsfu.boss2.bsz-bw.de/Search/Results?lookfor=python+blender&limit=20)
-
-
-### Thesis _The Role of Python in Visual Effects Pipeline_
-
-https://www.theseus.fi/bitstream/handle/10024/115922/Kazakov_Vladislav.pdf?sequence=1
 
 
 

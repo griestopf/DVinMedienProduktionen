@@ -1,6 +1,6 @@
 # Lektion 02 - Grundlagen von Python
 
-In dieser Lektion werden die Grundlagen der Programmierung in Python dargestellt. Konzepte, die bereits aus anderen Programmiersprachen bekannt sind, werden 
+In dieser Lektion werden die Grundlagen der Programmierung in Python dargestellt. 
 
 ## Datentypen
 
@@ -27,9 +27,9 @@ In vielen Programmiersprachen haben sich Operator-Symbole für die Verkettung vo
 
 Operation | Operator in Python | Beispiel | Operator in Java/C/C++/C#/JS/TS 
 ----------|--------|----------|----------------------------------
-Und | `and` | `if A and B:` | `&&`
-Oder | `or` | `while A or B:` | `||`
-Nicht | `not` | `if not A:` | `!`
+Und | `and` | `if A and B:` | `A && B`
+Oder | `or` | `while A or B:` | `A || B`
+Nicht | `not` | `if not A:` | `!A`
 
 Operatoren, deren Operanden zwar üblicherweise keine Bool'schen Werte sind, die aber als Ergebnis einen Bool'schen Wert generieren sind die üblichen Vergleichsoperatoren. Zudem gibt es in Python noch ein paar weitere solcher Operatoren, die alle typischerweise in Bedingungen von Strukturanweisungen verwendet werden können:
 
