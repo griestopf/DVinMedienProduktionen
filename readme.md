@@ -12,6 +12,18 @@ Hintergrund der Veranstaltung. Notwendige Tools. Allererste Schritte in Python.
 
 Grundlegende Einführung in Python. Übungen _ohne_ Bezug zur Medienproduktion.
 
+## Termine im WS 18/19
+
+Datum           | Inhalt
+----------------|----------------
+Mo., 15.10.2018 | Kein Unterricht
+Mo., 22.10.2018 | Python in Blender
+Mo., 29.10.2018 | Python in Blender
+Mo., 5.11.2018  | Green-Screen / Chroma-Keying (MSL)
+Mo., 12.11.2018 | Motion Capturing (MSL)
+Mo., 19.11.2018 | Aufteilung Kleingruppen, Projektzuteilung
+
+
 
 
 ## Literatur
