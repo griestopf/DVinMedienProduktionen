@@ -4,7 +4,7 @@ In dieser Lektion werden die Grundlagen der Programmierung in Python dargestellt
 
 ## Datentypen
 
-Wie andere Programmiersprachen auch, besitzt Python grundlegende Datentypen. Python verfügt allerdings schon von sich aus über mehr eingebaute Funktionalität als viele andere Sprachen. Collection-Funktinalität wie z.B. dynamisch wachsende Listen oder assoziative Speicher wie Dictionarys sind ebenso bereits direkt in die Sprache eingebaut wie komplexe Zahlen. Einen detaillierten Einblick in diese gibt die [offizielle Python-Dokumentation](https://docs.python.org/3/library/stdtypes.html). Hier nur eine kurze Übersicht: 
+Wie andere Programmiersprachen auch, besitzt Python grundlegende Datentypen. Python verfügt allerdings schon von sich aus über mehr eingebaute Funktionalität als viele andere Sprachen. Collection-Funktionalität wie z.B. dynamisch wachsende Listen oder assoziative Speicher wie Dictionarys sind ebenso bereits direkt in die Sprache eingebaut wie komplexe Zahlen. Einen detaillierten Einblick in diese gibt die [offizielle Python-Dokumentation](https://docs.python.org/3/library/stdtypes.html). Hier nur eine kurze Übersicht: 
 
 - **Numerics**
 	- Ganzzahlen (`int`, z. B. `42`)
@@ -28,7 +28,7 @@ In vielen Programmiersprachen haben sich Operator-Symbole für die Verkettung vo
 Operation | Operator in Python | Beispiel | Operator in Java/C/C++/C#/JS/TS 
 ----------|--------|----------|----------------------------------
 Und | `and` | `if A and B:` | `A && B`
-Oder | `or` | `while A or B:` | `A || B`
+Oder | `or` | `while A or B:` | `A \|\| B`
 Nicht | `not` | `if not A:` | `!A`
 
 Operatoren, deren Operanden zwar üblicherweise keine Bool'schen Werte sind, die aber als Ergebnis einen Bool'schen Wert generieren sind die üblichen Vergleichsoperatoren. Zudem gibt es in Python noch ein paar weitere solcher Operatoren, die alle typischerweise in Bedingungen von Strukturanweisungen verwendet werden können:
@@ -263,11 +263,13 @@ Person.StellDichVor(p)
 	- Das Kommando _Person ändern_ fragt zunächst nach der laufenden Nummer des Eintrags, der geändert werden soll. Dann wird nacheinander Name, Vorname und Personalnummer eingegeben. Ist die Benutzereingabe hier leer, wird das entsprechende Feld _nicht_ geändert. 
 	- Das Kommando _Person löschen_ fragt zunächst nach der laufenden Nummer des Eintrags, der gelöscht werden soll. Ist die eingegebene laufende Nummer kleiner oder gleich der Zahl der aktuell gespeicherten Personen, wird die aktuelle Person gelöscht.
 
-- Für Forgeschrittene: Erweitert o.g. Programm um folgende Funktionalität
+- Für Fortgeschrittene: Erweitert o.g. Programm um folgende Funktionalität
   - Macht das Programm robust für Fehleingaben. Es sollte nie abstürzen.
   - Erlaubt es, nach gespeicherten Personen über deren Namen, Vornamen oder Personalnummer zu suchen. Erlaubt ggf. die Eingabe von Teil-Angaben und listet alle Personen, die auf das Suchkriterium zutreffen auf.
   - Untersucht die Eingaben auf Plausibilität: Namen dürfen keine Ziffern enthalten. Die Personalnummer sollte nur aus Ziffern bestehen.
   - Erlaubt die Eingabe von Namen und Vornamen in beliebiger Groß- und Kleinschreibung, aber speichert diese so ab, dass jeweils der erste Buchstabe groß und alle anderen klein sind.
   - Erlaubt es, die Personen nach Name, Vorname oder Personalnummer sortiert auszugeben.
 
-  
+- Macht Euch den Unterschied zwischen Variablen von eingebauten Datentypen (int, str) und von Objekten selbst definierter Klassen klar. Was passiert, wenn nach einer Zuweisung (`b=a`) von zwei Variablen gleichen Typs der Inhalt der "neuen" Variablen (`b`) geändert wird? 
+  - Ändert sich auch der Inhalt der originalen Variablen `a`?
+  - Was passiert, wenn `a` und `b` Objekte selbst definierter Klassen sind? Was, wenn es eingebaute Datentypen sind?
