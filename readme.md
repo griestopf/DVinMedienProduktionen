@@ -24,8 +24,6 @@ Mo., 12.11.2018 | Motion Capturing (MSL)
 Mo., 19.11.2018 | Aufteilung Kleingruppen, Projektzuteilung
 
 
-
-
 ## Literatur
 
 - Einführung in Python auf deutsch
@@ -35,6 +33,16 @@ Mo., 19.11.2018 | Aufteilung Kleingruppen, Projektzuteilung
 - Offizielle Python Dokumentation (in englisch)
   
   https://docs.python.org/3/
+
+  
+- Einführung in Blender-Python auf der offiziellen Blender-Seite:
+  
+  https://docs.blender.org/api/blender_python_api_current/info_quickstart.html
+
+
+- Einführung in die Blender Python Console auf der offiziellen Blender-Seite:
+
+  https://docs.blender.org/manual/en/dev/editors/python_console.html
 
 
 - Erste Schritte in Python mit Visual Studio Code
