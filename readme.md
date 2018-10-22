@@ -12,6 +12,11 @@ Hintergrund der Veranstaltung. Notwendige Tools. Allererste Schritte in Python.
 
 Grundlegende Einführung in Python. Übungen _ohne_ Bezug zur Medienproduktion.
 
+
+[Lektion 03 - Einführung in Blender Python](L03_BlenderPython)
+
+Erste Schritte mit `bpy` und der Blender Python Console.
+
 ## Termine im WS 18/19
 
 Datum           | Inhalt
