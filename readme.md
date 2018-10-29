@@ -17,7 +17,7 @@ Grundlegende Einführung in Python. Übungen _ohne_ Bezug zur Medienproduktion.
 
 Erste Schritte mit `bpy` und der Blender Python Console.
 
-[Lektion 03 - Add-on Entwicklung in Blender](L04_BlenderAddOns)
+[Lektion 04 - Add-on Entwicklung in Blender](L04_BlenderAddOns)
 
 Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von Add-ons.
 
