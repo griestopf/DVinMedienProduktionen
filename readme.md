@@ -17,6 +17,11 @@ Grundlegende Einführung in Python. Übungen _ohne_ Bezug zur Medienproduktion.
 
 Erste Schritte mit `bpy` und der Blender Python Console.
 
+[Lektion 03 - Add-on Entwicklung in Blender](L04_BlenderAddOns)
+
+Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von Add-ons.
+
+
 ## Termine im WS 18/19
 
 Datum           | Inhalt
@@ -48,6 +53,11 @@ Mo., 19.11.2018 | Aufteilung Kleingruppen, Projektzuteilung
 - Einführung in die Blender Python Console auf der offiziellen Blender-Seite:
 
   https://docs.blender.org/manual/en/dev/editors/python_console.html
+
+
+- Blender Add-on Tutorial auf der offiziellen Blender-Seite:
+
+  https://docs.blender.org/api/blender_python_api_2_65_5/info_tutorial_addon.html
 
 
 - Erste Schritte in Python mit Visual Studio Code
