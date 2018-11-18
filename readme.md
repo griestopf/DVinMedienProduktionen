@@ -32,6 +32,9 @@ Mo., 29.10.2018 | Python in Blender
 Mo., 5.11.2018  | Green-Screen / Chroma-Keying (MSL)
 Mo., 12.11.2018 | Motion Capturing (MSL)
 Mo., 19.11.2018 | Aufteilung Kleingruppen, Projektzuteilung
+Mo., 03.12.2018 | Zwischenbericht 1 - finale Aufgabe, erste Tests & Einarbeitung, Identifizierung kritischer Pfade
+Mo., 17.12.2018 | Zwischenbericht 2 - Kritische Pfade aufgelöst/ggf. Plan B., Zeitplan bis Januar
+Mo., 21.01.2019 | Abschlussbericht  - Fertige Abgabe
 
 
 ## Literatur
