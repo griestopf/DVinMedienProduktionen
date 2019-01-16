@@ -36,6 +36,8 @@ Mo., 03.12.2018 | Zwischenbericht 1 - finale Aufgabe, erste Tests & Einarbeitung
 Mo., 17.12.2018 | Zwischenbericht 2 - Kritische Pfade aufgelöst/ggf. Plan B., Zeitplan bis Januar
 Mo., 21.01.2019 | Abschlussbericht  - Fertige Abgabe
 
+Aenderung
+
 
 ## Literatur
 
