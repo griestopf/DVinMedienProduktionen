@@ -26,7 +26,7 @@ Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von
 
 Datum           | Inhalt
 ----------------|----------------
-Mo., 25.03.2019 | Kein Unterricht
+Mo., 25.03.2019 | Einführung
 Mo., 01.04.2019 | Python in Blender
 Mo., 08.04.2019 | Python in Blender
 Mo., 15.04.2019  | Green-Screen / Chroma-Keying (MSL)
