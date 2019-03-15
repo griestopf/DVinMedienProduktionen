@@ -22,19 +22,19 @@ Erste Schritte mit `bpy` und der Blender Python Console.
 Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von Add-ons.
 
 
-## Termine im WS 18/19
+## Termine im SS 19
 
 Datum           | Inhalt
 ----------------|----------------
-Mo., 15.10.2018 | Kein Unterricht
-Mo., 22.10.2018 | Python in Blender
-Mo., 29.10.2018 | Python in Blender
-Mo., 5.11.2018  | Green-Screen / Chroma-Keying (MSL)
-Mo., 12.11.2018 | Motion Capturing (MSL)
-Mo., 19.11.2018 | Aufteilung Kleingruppen, Projektzuteilung
-Mo., 03.12.2018 | Zwischenbericht 1 - finale Aufgabe, erste Tests & Einarbeitung, Identifizierung kritischer Pfade
-Mo., 17.12.2018 | Zwischenbericht 2 - Kritische Pfade aufgelöst/ggf. Plan B., Zeitplan bis Januar
-Mo., 21.01.2019 | Abschlussbericht  - Fertige Abgabe
+Mo., 25.03.2019 | Kein Unterricht
+Mo., 01.04.2019 | Python in Blender
+Mo., 08.04.2019 | Python in Blender
+Mo., 15.04.2019  | Green-Screen / Chroma-Keying (MSL)
+Mo., 29.04.2019 | Motion Capturing (MSL)
+Mo., 06.05.2019 | Aufteilung Kleingruppen, Projektzuteilung
+Mo., 27.05.2019 | Zwischenbericht 1 - finale Aufgabe, erste Tests & Einarbeitung, Identifizierung kritischer Pfade
+Mo., 17.06.2019 | Zwischenbericht 2 - Kritische Pfade aufgelöst/ggf. Plan B., Zeitplan bis Januar
+Mo., 01.07.2019 | Abschlussbericht  - Fertige Abgabe
 
 
 ## Literatur
