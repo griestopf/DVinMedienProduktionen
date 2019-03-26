@@ -26,11 +26,11 @@ Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von
 
 Datum           | Inhalt
 ----------------|----------------
-Mo., 25.03.2019 | Einführung
-Mo., 01.04.2019 | Python in Blender
-Mo., 08.04.2019 | Python in Blender
-Mo., 18.04.2019  | Green-Screen / Chroma-Keying (MSL)
-Mo., 02.05.2019 | Motion Capturing (MSL)
+Mo., 25.03.2019 | Einführung | Orientierung
+Mo., 01.04.2019 | Vertiefung | Asset Based Pipelines
+Mo., 08.04.2019 | Vertiefung | VFX Pipeline
+Do., 18.04.2019  | Green-Screen / Chroma-Keying (MSL, 3. Block)
+Do., 02.05.2019 | Motion Capturing (MSL, 3. Block)
 Mo., 06.05.2019 | Aufteilung Kleingruppen, Projektzuteilung
 Mo., 27.05.2019 | Zwischenbericht 1 - finale Aufgabe, erste Tests & Einarbeitung, Identifizierung kritischer Pfade
 Mo., 17.06.2019 | Zwischenbericht 2 - Kritische Pfade aufgelöst/ggf. Plan B., Zeitplan bis Januar
