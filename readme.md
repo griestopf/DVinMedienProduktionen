@@ -26,9 +26,9 @@ Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von
 
 Datum           | Inhalt
 ----------------|----------------
-Mo., 25.03.2019 | Einführung | Orientierung
-Mo., 01.04.2019 | Vertiefung | Asset Based Pipelines
-Mo., 08.04.2019 | Vertiefung | VFX Pipeline
+Mo., 25.03.2019 | Einführung, Orientierung
+Mo., 01.04.2019 | Vertiefung, Asset Based Pipelines
+Mo., 08.04.2019 | Vertiefung, VFX Pipeline
 Do., 18.04.2019  | Green-Screen / Chroma-Keying (MSL, 3. Block)
 Do., 02.05.2019 | Motion Capturing (MSL, 3. Block)
 Mo., 06.05.2019 | Aufteilung Kleingruppen, Projektzuteilung
