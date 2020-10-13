@@ -160,7 +160,7 @@ p.Alter = 42
 print (p.Name, p.Alter)
 ```
 
-Wie es scheint ist `Person` ein Sammelbecken für alle möglichen Daten, die jedem Objekt beliebig nach der Erzeugung zugewiesen werden können. Es spräche nichts dagegen, einem Objekt vom Typ Person nach dessen Erzeugen auch einen Hubraum und eine PS-Angabe zuzuweisen. Probiert es aus.
+Wie es scheint, ist `Person` ein Sammelbecken für alle möglichen Daten, die jedem Objekt beliebig nach der Erzeugung zugewiesen werden können. Es spräche nichts dagegen, einem Objekt vom Typ Person nach dessen Erzeugen auch einen Hubraum und eine PS-Angabe zuzuweisen. Probiert es aus.
 
 Tatsächlich kann man sich ein Objekt von einer wie oben deklarierten "leeren" Klasse eher wie ein Dictionary vorstellen: Unter beliebigen Namen können beliebige Werte abgelegt werden, die dann auch wieder ausgelesen werden können. Manchmal ist aber diese Beliebigkeit etwas zu ungenau.
 
@@ -172,7 +172,7 @@ Wie kann nun erreicht werden, dass jede Person schon beim Erzeugen eine vordefin
 
 ```Python
 class Person:
-	def __init___(self, name, alter):
+	def __init__(self, name, alter):
 		self.Name = name
 		self.Alter = alter
 ```
@@ -208,7 +208,7 @@ Da mit `__init__` gleich eine spezielle Methode, nämlich der Konstruktor, defin
 
 ```Python
 class Person:
-	def __init___(self, name, alter):
+	def __init__(self, name, alter):
 		self.Name = name
 		self.Alter = alter
 	def StellDichVor(self):

@@ -1,6 +1,3 @@
-# Vortrag 1. Semesterhälfte
-
-Jede Gruppe soll zu einem Skripting/DV
 
 ## Ideen
 
@@ -40,27 +37,16 @@ Freie Abgabe im Bereich 3D-CG, Postproduction, VFX mit Augenmerk auf Automatisie
 Die Aufgabe soll in Kleingruppen erarbeitet werden (max. drei Mitglieder pro Kleingruppe).
 
 ## Bewertungskriterien
-- Wurde die zur Verfügung stehende Zeit genutzt? 
-    - Negativ-Beispiele
-        - am 2. Zwischenbereicht einen Aufguss der Ideenvorstellung vom 1. Zwischenbericht zeigen
-        - Footage-Produktion so knapp geplant, dass bei Nicht-Verwendbarkeit kein zweiter Versuch möglich ist
-        -   Kritische Punkte nicht identifiziert und nicht vor dem 2. Zwischenbericht ausprobiert
-- Komplexität der Aufgabe
-- Darstellung der Fertigkeiten im Bereich Skripting einer VFX/Compositing/3D-Anwendung
-- Qualität der Vorträge (Vorbereitung, Visualisierungen, Folien, …)
-- Lerneffekt der Vorträge (konnten Zuschauer etwas mitnehmen, war etwas Neues dabei)
-- Umsetzung: Wie stark wurde der die Zielsetzung erreicht
-- Handwerkliche Qualität der Arbeit (alles auf Kante genäht oder am Ergebnis gefeilt, bis es passt)
-- Codequalität im Sinne von SW-Design
 
 
-## Zwischenberichte
 
-Zu den Zwischenberichten gilt Anwesenheitspflicht aller TeilnehmerInnen. Entschuldigung nur mit ärztlichem Attest.
+## Termine
 
-### Zwischenbericht 1
+Zu den vereinbarten Gruppeneinzelterminen und den Vortrags-Terminen gilt Anwesenheitspflicht aller TeilnehmerInnen. Entschuldigung nur mit ärztlichem Attest.
 
-Pro Gruppe etwa 10 Minuten Vortrag. Alle Gruppenmitglieder tragen vor
+### Gruppeneinzeltermine 
+
+Pro Gruppe etwa 15 Minuten Darlegung des aktuellen Standes. 
 
 - Ideenvorstellung
 - Risikoanalyse (was könnte schief laufen, kritische Pfade identifizieren)
