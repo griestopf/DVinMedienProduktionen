@@ -22,19 +22,28 @@ Erste Schritte mit `bpy` und der Blender Python Console.
 Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von Add-ons.
 
 
-## Termine im SS 19
+## Termine im WS 20/21
 
 Datum           | Inhalt
 ----------------|----------------
-Mo., 25.03.2019 | Einführung, Orientierung
-Mo., 01.04.2019 | Vertiefung, Asset Based Pipelines
-Mo., 08.04.2019 | Vertiefung, VFX Pipeline
-Do., 18.04.2019  | Green-Screen / Chroma-Keying (MSL, 3. Block)
-Do., 02.05.2019 | Motion Capturing (MSL, 3. Block)
-Mo., 06.05.2019 | Aufteilung Kleingruppen, Projektzuteilung
-Mo., 27.05.2019 | Zwischenbericht 1 - finale Aufgabe, erste Tests & Einarbeitung, Identifizierung kritischer Pfade
-Mo., 17.06.2019 | Zwischenbericht 2 - Kritische Pfade aufgelöst/ggf. Plan B., Zeitplan bis Januar
-Mo., 01.07.2019 | Abschlussbericht  - Fertige Abgabe
+13. Okt       	| Python Grundlagen
+20. Okt	      	| Blender Python
+27. Okt	      	| Blender Addons
+03. Nov	      	| Gruppeneinzelgespräche 1-5
+10. Nov	      	| Gruppeneinzelgespräche 6-10
+17. Nov	      	| Vorträge I
+24. Nov	      	| Vorträg II
+01. Dez	      	| Arbeit an Projekt
+08. Dez	      	| Gruppeneinzelgespräche 1-5
+15. Dez	      	| Gruppeneinzelgespräche 6-10
+22. Dez	      	| Arbeit an Projekt
+12. Jan	      	| Arbeit an Projekt
+19. Jan	      	| Projektberichte I
+26. Jan	      	| Projektberichte II
+
+
+
+
 
 
 ## Literatur

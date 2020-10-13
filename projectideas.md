@@ -1,3 +1,38 @@
+# Vortrag 1. Semesterhälfte
+
+Jede Gruppe soll zu einem Skripting/DV
+
+## Ideen
+
+### Fortgeschrittene Schleifen-Techniken und Anwendungsbeispiele in Blender
+
+### B-Mesh und andere Geometrie-Datenstrukturen
+
+https://wiki.blender.org/wiki/Source/Modeling/BMesh/Design
+
+
+### Der Catmull-Clark-Algorithmus / Multiresolution Editing / Alternativen
+
+### Skriptingmöglichkeiten in DaVinci-Resolve [oder anderer Medienproduktions-Software]
+
+### Numpy und Anwendungen in Blender
+
+https://www.blendernation.com/2018/01/13/tutorial-series-numpy-blender/
+
+
+### Bild (Textur)-Manipulation per Python in Blender
+
+
+
+### Motion-Tracking Daten aus Motive nach Blender
+
+https://github.com/ratcave/natnetclient
+
+
+
+
+
+
 # Aufgabe 2. Semesterhälfte
 
 Freie Abgabe im Bereich 3D-CG, Postproduction, VFX mit Augenmerk auf Automatisierung und Skripting.
