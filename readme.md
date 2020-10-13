@@ -24,22 +24,22 @@ Add-ons losgelöst von .blend-Dateien. Parametern per UI eingeben. Debugging von
 
 ## Termine im WS 20/21
  
-Datum   | Inhalt
---------|----------------
-13. Okt | Python Grundlagen
-20. Okt	| Blender Python
-27. Okt	| Blender Addons
-03. Nov	| Gruppeneinzelgespräche 1-5
-10. Nov	| Gruppeneinzelgespräche 6-10
-17. Nov	| Vorträge I
-24. Nov	| Vorträg II
-01. Dez	| Arbeit an Projekt
-08. Dez	| Gruppeneinzelgespräche 1-5
-15. Dez	| Gruppeneinzelgespräche 6-10
-22. Dez	| Arbeit an Projekt
-12. Jan	| Arbeit an Projekt
-19. Jan	| Projektberichte I
-26. Jan	| Projektberichte II
+| Datum   | Inhalt                        |
+|---------|-------------------------------|
+| 13. Okt | Python Grundlagen             |
+| 20. Okt	| Blender Python                |
+| 27. Okt	| Blender Addons                |
+| 03. Nov	| Gruppeneinzelgespräche 1-5    |
+| 10. Nov	| Gruppeneinzelgespräche 6-10   |
+| 17. Nov	| Vorträge I                    |
+| 24. Nov	| Vorträg II                    |
+| 01. Dez	| Arbeit an Projekt             |
+| 08. Dez	| Gruppeneinzelgespräche 1-5    |
+| 15. Dez	| Gruppeneinzelgespräche 6-10   |
+| 22. Dez	| Arbeit an Projekt             |
+| 12. Jan	| Arbeit an Projekt             |
+| 19. Jan	| Projektberichte I             |
+| 26. Jan	| Projektberichte II            | 
 
 
 ## Literatur
