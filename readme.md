@@ -35,6 +35,10 @@ In der zweiten Semesterhälfte erarbeitet jede Gruppe ein Skripting-Projekt (z. 
 - Codequalität im Sinne von SW-Design
 - Qualität der Vorträge (Vorbereitung, Visualisierungen, Folien, …)
 
+### Anwesenheit
+
+Zu den vereinbarten Gruppeneinzelterminen und den Vortrags-Terminen gilt Anwesenheitspflicht aller Teilnehmer. Entschuldigung nur mit ärztlichem Attest.
+
 
 ### Termine im WS 20/21
  

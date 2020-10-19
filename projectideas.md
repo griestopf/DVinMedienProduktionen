@@ -36,13 +36,8 @@ Freie Abgabe im Bereich 3D-CG, Postproduction, VFX mit Augenmerk auf Automatisie
 
 Die Aufgabe soll in Kleingruppen erarbeitet werden (max. drei Mitglieder pro Kleingruppe).
 
-## Bewertungskriterien
 
-
-
-## Termine
-
-Zu den vereinbarten Gruppeneinzelterminen und den Vortrags-Terminen gilt Anwesenheitspflicht aller TeilnehmerInnen. Entschuldigung nur mit ärztlichem Attest.
+----------------------------------------------------
 
 ### Gruppeneinzeltermine 
 

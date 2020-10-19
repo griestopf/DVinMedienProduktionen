@@ -1,3 +1,31 @@
+
+a = "Hallo"
+b = "Hallo"
+
+if a == b:
+	print("Strings sind gleich")
+
+
+
+
+i=42
+
+if i == 1:
+    # i ist eins
+	pass
+elif (i == 2):
+  	# i ist zwei
+	pass
+elif (i == 3):
+  	# i ist drei
+	pass
+else:
+	# i viel
+	pass
+
+
+
+
 # a = 3
 # if a == 1:
 #      print('eins')
@@ -15,13 +43,13 @@
 # 	print(a)
 # 	a = a+1
 
-class Person:
-	def __init__(self, name, alter):
-		self.Name = name
-		self.Alter = alter
-	def StellDichVor(self):
-		print("Ich bin " + self.Name + " und bin " + str(self.Alter) + " Jahre alt.")
-
-p = Person("Horst", 42)
-p.Hubraum = 1990
-p.StellDichVor()
+# class Person:
+# 	def __init__(self, name, alter):
+# 		self.Name = name
+# 		self.Alter = alter
+# 	def StellDichVor(self):
+# 		print("Ich bin " + self.Name + " und bin " + str(self.Alter) + " Jahre alt.")
+# 
+# p = Person("Horst", 42)
+# p.Hubraum = 1990
+# p.StellDichVor()
