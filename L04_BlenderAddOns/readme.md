@@ -1,4 +1,4 @@
-# Letkion 04 - Blender Add-ons in Python
+# Lektion 04 - Blender Add-ons in Python
 
 In der letzten Lektion haben wir gesehen, wie Blender-Kommandos über da `bpy`-Modul aus Python-Code ausgeführt werden können. Hierzu wurde ein Python-Skript innerhalb des Text-Editors erstellt und ausgeführt.
 
