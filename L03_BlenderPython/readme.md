@@ -4,7 +4,7 @@ Hier machen wir erste Gehversuche mit Python als Skriptsprache in Blender
 
 ## Einführung
 
-Wie viele andere Softwarepakete im Bereich der Medienproduktion lässt sich Blender mit der Programmiersprache Python automatisieren. Blender wird dazu mit einer eigenen Python-Distribution ausgeliefert und installiert (diese liegt im Blender-Installationsverzeichnis in einem eigenen `python` Unterverzeichnis). Obwohl Blender selbst in der Programmiersprache C++ geschrieben wurde, ist der gesamte Source-Code eng mit Python verzahnt. Nahezu jede Funktionalität, die sich in Blender über das User Interface auslösen lässt, kann auch mit Python-Befehlen aus einem Skript aufgerufen werden. Darüber hinaus sind sämtliche Daten innerhalb von Blender über Python-Strukturen zugreifbar. Dazu zählen u.a. 
+Wie viele andere Softwarepakete im Bereich der Medienproduktion lässt sich Blender mit der Programmiersprache Python automatisieren. Blender wird dazu mit einer eigenen Python-Distribution ausgeliefert und installiert (diese liegt im Blender-Installationsverzeichnis in einem eigenen `python` Unterverzeichnis). Obwohl Blender selbst in den Programmiersprache C und C++ geschrieben wurde, ist der gesamte Source-Code eng mit Python verzahnt. Nahezu jede Funktionalität, die sich in Blender über das User Interface auslösen lässt, kann auch mit Python-Befehlen aus einem Skript aufgerufen werden. Darüber hinaus sind sämtliche Daten innerhalb von Blender über Python-Strukturen zugreifbar. Dazu zählen u.a. 
 - Szenen und Objekte
 - Geometrie
 - Kamera und Beleuchtung
@@ -35,7 +35,7 @@ Was fällt uns hier ins Auge?:
   ```
   bpy.abc.def.[...].command()
   ```
-  Das Kommando ```bpy.ops.transform.translate()``` verwendet aus der Gesamtheit aller Blender-Python-Funktionalität (```bpy```) die Untergruppe der Operationen (```ops```), dort wird dann aus der Untergruppe der Transformations-Operationen (```transform```) die Methode ```translate``` aufgerufen.
+  Das Kommando ```bpy.ops.transform.translate()``` verwendet aus der Gesamtheit aller Blender-Python-Funktionalität (```bpy```) die Untergruppe der Operatoren (```ops```), dort wird dann aus der Untergruppe der Transformations-Operatoren (```transform```) die Methode ```translate``` aufgerufen.
 
 - Funktionen (Methoden), die Parameter entgegen nehmen, verwenden meist _named_ Paramter. Im Beispiel oben muss daher der Verschiebungsvektor, der an die Methode ```translate``` übergeben wird, mit ```value=...``` explizit benannt werden. Bislang haben wir bei Python-Methoden die aus anderen Programmiersprachen bekannten _positional_ Parameter kennen gelernt, bei denen die Position in der Parameterliste eindeutig bestimmt, welcher Parameter gemeint ist.
 
@@ -90,7 +90,7 @@ Klassen und Methoden unterhalb von `bpy.context` erlauben den Zugriff auf die ak
 
 ### `bpy.ops`
 
-`bpy.ops` steht für "Operationen". Hierunter verbergen sich die Kommandos, die über Tastenkombinationen oder Menüeinträge eingegeben werden können. Die Kommandos, die im Arbeitsbereich des Info-Editors angezeigt werden, stammen meistens aus `bpy.ops`.
+`bpy.ops` steht für "Operatoren". Hierunter verbergen sich die Kommandos, die über Tastenkombinationen oder Menüeinträge eingegeben werden können. Die Kommandos, die im Arbeitsbereich des Info-Editors angezeigt werden, stammen meistens aus `bpy.ops`.
 
 ## Beispiel: Matrix Extrude
 
