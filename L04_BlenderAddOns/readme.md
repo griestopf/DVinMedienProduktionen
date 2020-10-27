@@ -99,7 +99,7 @@ Hier sind die notwendigen Schritte, um die o. g. Voraussetzungen zu erfüllen
     ```
   - Mit verbundenem Internet das ptvsd Paket installieren
     ```
-    > >python -m pip install ptvsd
+    > python -m pip install ptvsd
     ```
     (vorher ggf. Pip aktualisieren mit `python -m pip install --upgrade pip`)
 - Im Python Skript (Datei `__init__.py`):
