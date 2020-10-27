@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\BlenderAddons\\addons\\matrix_extrude_simple"
+		},
+		{
+			"path": "..\\BlenderAddons\\addons\\matrix_extrude_params"
+		}
+	]
+}

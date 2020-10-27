@@ -1,27 +1,34 @@
 
-a = "Hallo"
-b = "Hallo"
-
-if a == b:
-	print("Strings sind gleich")
-
+a = 0
+while a < 10:
+	print(a)
+	a = a+1
 
 
 
-i=42
-
-if i == 1:
-    # i ist eins
-	pass
-elif (i == 2):
-  	# i ist zwei
-	pass
-elif (i == 3):
-  	# i ist drei
-	pass
-else:
-	# i viel
-	pass
+#a = "Hallo"
+#b = "Hallo"
+#
+#if a == b:
+#	print("Strings sind gleich")
+#
+#
+#
+#
+#i=42
+#
+#if i == 1:
+#    # i ist eins
+#	pass
+#elif (i == 2):
+#  	# i ist zwei
+#	pass
+#elif (i == 3):
+#  	# i ist drei
+#	pass
+#else:
+#	# i viel
+#	pass
 
 
 

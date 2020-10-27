@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Matrix Extrude Add-on",
+    "name": "Simple Matrix Extrude Add-on",
     "author" : "Prof. M.",
     "version" : (1, 0, 0),
     "blender" : (2, 90, 0),
@@ -11,10 +11,12 @@ bl_info = {
 
 import bpy
 import ptvsd
+ptvsd.enable_attach()
+
     
-class MatrixExtrude(bpy.types.Operator):
-    bl_idname = "mesh.matrix_extrude"
-    bl_label = "Matrix Extrude selected faces"
+class MatrixExtrudeSimple(bpy.types.Operator):
+    bl_idname = "mesh.matrix_extrude_simple"
+    bl_label = "Matrix Extrude selected faces five times"
     bl_options = {'REGISTER', 'UNDO'}
 
     def execute(self, context):
@@ -37,8 +39,8 @@ class MatrixExtrude(bpy.types.Operator):
 
 def register():
     print("Registering Matrix Extrude")
-    bpy.utils.register_class(MatrixExtrude)
+    bpy.utils.register_class(MatrixExtrudeSimple)
 
 def unregister():
     print("Unregistering Matrix Extrude")
-    bpy.utils.unregister_class(MatrixExtrude)
+    bpy.utils.unregister_class(MatrixExtrudeSimple)
