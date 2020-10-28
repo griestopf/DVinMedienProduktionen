@@ -6,6 +6,8 @@ Mit Python implementierte Blender-Automatisierung soll in vielen Fällen unabhä
 
 Zu diesem Zweck bietet Blender die Möglichkeit, Python-Skripte so anzulegen, dass diese als Add-ons verwendet werden können. Add-ons in Blender können über den "Add-on"-Tab im "User Preferences" Dialog (`Ctrl`-`Alt`-`U`) geladen, aktiviert, deaktiviert und entladen werden.
 
+Für das Entwickeln in Blender ist es ratsam, ebenfalls im o. g. "User Preferences" Dialog im Tab "Interface" den Haken bei "Developer Extras" zu setzen. Dies aktiviert eine Reihe von Optionen in Blender, die das Entwickeln und Testen von Skript-Code erleichtern. Unter anderem ermöglicht es das Ausführen von nicht per Keyboard-Shortcut oder Menü-Eintrag auslösbaren selbst entwickelten Operationen über die Suchfunktion (Taste "F3"). 
+
 ## Ein erstes (leeres) Add-On
 
 Da ein Add-on nicht Bestandteil einer bestimmten ".blend"-Datei sein soll, sondern für alle möglichen Dateien, die von einer Blender-Installation bearbeitet werden, zur Verfügung stehen soll, muss das Add-on-Skript losgelöst von einer bestimmten ".blend"-Datei entwickelt werden. 
@@ -47,6 +49,7 @@ Nun soll das Add-on mit der Matrix-Extrude-Funktionlität der letzten Lektion ge
 
 #### TODO
 > - Installiert das Add-on-Skript [MatrixExtrudeAddon.py](MatrixExtrudeAddon.py).
+> - Stellt sicher dass unter "Edit -> Preferences -> Interface" der Haken für "Developer Extras" gesetzt ist.
 > - Verwendet das Add-on indem ihr im 3D-View mit der Taste F3 das Kommando-Menü erscheinen lasst und dann durch die Eingabe von `Matrix Extrude` den neuen Matrix-Extrude-Befehl ausführt.
 > - Konnektiert den neuen Matrix-Extrude-Befehl im "User Preferences" Dialog mit einer Tastenkombination Eurer Wahl, in dem ihr den internen Namen des Kommandos `mesh.matrix_extrude` verwendet.
 
