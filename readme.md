@@ -35,6 +35,19 @@ In der zweiten Semesterhälfte erarbeitet jede Gruppe ein Skripting-Projekt (z. 
 - Codequalität im Sinne von SW-Design
 - Qualität der Vorträge (Vorbereitung, Visualisierungen, Folien, …)
 
+#### Abgaben
+
+Die Abgabe soll gruppenweise bis zum Ende des Prüfungszeitraums erfolgen. Die Abgabe besteht aus folgenden Einzelteilen:
+
+1. Einem mind. dreiseitigen Dokument mit folgendem Inhalt
+   - Beschreibung der Projektidee und Lösungsansätze/Umsetzung
+   - Funktionsweise der entwickelten Lösung unter Verwendung von Screenshots
+   - Auflistung, welches Gruppenmitglied mit welchen Teilaufgaben betraut war
+   - Wenn notwendig (falls nicht selbsterklärend): Schritt-für-Schritt-Beschreibung der Inbetriebnahme/Installation sowie der Anwendung der Lösung
+2. Die bei den Projektberichten gezeigten Präsentationsfolien (falls vorhanden)
+3. Lauffähige Version der entwickelten Lösung.
+4. Wenn nicht in 3 enthalten: Source-Code der entwickelten Lösung
+
 ### Anwesenheit
 
 Zu den vereinbarten Gruppeneinzelterminen und den Vortrags-Terminen gilt Anwesenheitspflicht aller Teilnehmer. Entschuldigung nur mit ärztlichem Attest.
@@ -56,8 +69,8 @@ Zu den vereinbarten Gruppeneinzelterminen und den Vortrags-Terminen gilt Anwesen
 | 15. Dez	| Gruppeneinzelgespräche II                |
 | 22. Dez	| Arbeit an Projekt                        |
 | 12. Jan	| Arbeit an Projekt                        |
-| 19. Jan	| Projektberichte I                        |
-| 26. Jan	| Projektberichte II                       | 
+| 19. Jan	| Projektberichte                          |
+
 
 
 ## Lektionen der Einführungsphase
