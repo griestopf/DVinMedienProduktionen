@@ -43,7 +43,7 @@ Die Abgabe soll gruppenweise bis zum Ende des Prüfungszeitraums erfolgen. Die A
    - Kurze Beschreibung der entwickelten Lösung (worum gehts?), ggf. mit einem Bild
    - Wenn notwendig (falls nicht selbsterklärend): Schritt-für-Schritt-Beschreibung der Inbetriebnahme/Installation sowie der Anwendung der Lösung
    - Anzahl der Lines-of-code (LOC) inklusive Kommentarzeile
-   - Falls vorhnden: Liste von erzeugten Assets (3D-Modelle, Texturen, Bilder, ..), die im Betrieb der Lösung verwendet werden.
+   - Falls vorhanden: Liste von erzeugten Assets (3D-Modelle, Texturen, Bilder, ..), die im Betrieb der Lösung verwendet werden.
    - Auflistung, welches Gruppenmitglied (unter Nennung des vollständigen Namens) mit welchen Teilaufgaben betraut war.
 
 2. Die bei den Projektberichten gezeigten Präsentationsfolien
