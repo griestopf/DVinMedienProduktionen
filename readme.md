@@ -42,8 +42,9 @@ Die Abgabe soll gruppenweise bis zum Ende des Prüfungszeitraums erfolgen. Die A
 1. Einem mind. dreiseitigen Dokument mit folgendem Inhalt
    - Beschreibung der Projektidee und Lösungsansätze/Umsetzung
    - Funktionsweise der entwickelten Lösung unter Verwendung von Screenshots
+   - Wenn zusätzlich notwendig (falls nicht selbsterklärend oder aus vorangegangenen Punkt klar): Schritt-für-Schritt-Beschreibung der Inbetriebnahme/Installation sowie der Anwendung der Lösung
    - Auflistung, welches Gruppenmitglied mit welchen Teilaufgaben betraut war
-   - Wenn notwendig (falls nicht selbsterklärend): Schritt-für-Schritt-Beschreibung der Inbetriebnahme/Installation sowie der Anwendung der Lösung
+
 2. Die bei den Projektberichten gezeigten Präsentationsfolien (falls vorhanden)
 3. Lauffähige Version der entwickelten Lösung.
 4. Wenn nicht in 3 enthalten: Source-Code der entwickelten Lösung
